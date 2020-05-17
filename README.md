@@ -1,1 +1,2 @@
-# herokubot
+# CloudComputing
+Cloud Computing Mini Project
